@@ -21,3 +21,8 @@ This is the "alternative" user for WithLithum, and is used as either a bot accou
 
 #### ☎️ Contact
 For any queries, questions or requests regarding this account, contact [@WithLithum](https://github.com/WithLithum). Do not contact this account directly.
+
+#### 🗃️ Misc.
+* Skin featured on avatar is Copyright (C) 2022 AfterChange.
+* Vampires are not real.
+* **Story is purely fictional. Any resemblance of one or more real living or dead person, place, business, event in purely incidental.**
