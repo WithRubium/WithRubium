@@ -23,6 +23,6 @@ This is the "alternative" user for WithLithum, and is used as either a bot accou
 For any queries, questions or requests regarding this account, contact [@WithLithum](https://github.com/WithLithum). Do not contact this account directly.
 
 #### 🗃️ Misc.
-* Skin featured on avatar is Copyright (C) 2022 AfterChange.
+* Skin featured on avatar is Copyright (C) 2022 AfterChange. Overlay is Copyright (C) 2019-2021 maxanier, used as a part of Vampirism for the game taking the avatar.
 * Vampires are not real.
 * **Story is purely fictional. Any resemblance of one or more real living or dead person, place, business or event in this story purely incidental.**
