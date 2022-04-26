@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi There!
 
 Let's begin this README with a fictional story.
 
@@ -10,7 +10,7 @@ Let's begin this README with a fictional story.
 >
 > _Question remains. Is WithRubium....... a.... vampire?_
 
-This is the "alternative" user for WithLithum, and is used as either a bot account to perform some automation, or as a utility account to do some misc stuff.
+This is the "alternative" user for WithLithum, and is used as either a bot account to perform some automation (i.e. services operates on behalf of this account), or as a utility account to do some misc stuff. This is also used for some API intervention.
 
 #### 📰 Bio
 * 📛 **How to pronounce name:** With Ruby-ium
