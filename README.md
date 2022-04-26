@@ -13,11 +13,11 @@ Let's begin this README with a fictional story.
 This is the "alternative" user for WithLithum, and is used as either a bot account to perform some automation, or as a utility account to do some misc stuff.
 
 #### 📰 Bio
-* 📛 How to pronounce name: With Ruby-ium
-* 😄 Pronouns: She/they (only for mentioning this account; to mention myself, use He/they)
-* 🙂 Favorite language: C#
-* 🚛 Speaks: Mandarin (native) and English
-* ⚡ Fun fact: You can call this buddy Rubium, but not Ruby-ium. Rubidium is not accepted.
+* 📛 **How to pronounce name:** With Ruby-ium
+* 😄 **Pronouns:** She/they (only for mentioning this account; to mention myself, use He/they)
+* 🙂 **Favorite language:** C#
+* 🚛 **Speaks:** Mandarin (native) and English
+* ⚡ **Fun fact:** You can call this buddy Rubium, but not Ruby-ium. Rubidium is not accepted.
 
 #### ☎️ Contact
-For any queries regarding this account, contact [@WithLithum](https://github.com/WithLithum).
+For any queries, questions or requests regarding this account, contact [@WithLithum](https://github.com/WithLithum). Do not contact this account directly.
